@@ -1,4 +1,7 @@
 # website_scraping
+
+This is Django based web scraper tool for scraping the website  "https://websites.co.in/sitemap"
+
 database used : sqlite3
 Package         Version   
 --------------- ----------
